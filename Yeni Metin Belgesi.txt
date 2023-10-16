@@ -1,0 +1,23 @@
+GitHub, yazılım geliştirme projelerini yönetmek ve paylaşmak için kullanılan bir web tabanlı hizmettir.
+
+ Git, geliştiricilerin kodlarını takip etmelerini, değişiklik yapmalarını ve projelerini diğer geliştiricilerle paylaşmalarını sağlar.
+
+GitHub’ın birçok özelliği ve işlevi vardır
+
+ Geliştiriciler projelerini GitHub üzerindeki bir depo (repository) olarak adlandırılan bir yerde saklayabilirler.
+ Bu depolarda proje dosyalarını ve koddan oluşan kaynakları barındırabilirler. Diğer geliştiricilerin ise bu depoları inceleyebilmesi ve bu projelere katkıda bulunabilmesi mümkündür. Böylece geliştiriciler dünya genelinde birbirleriyle işbirliği yapabilir ve projeleri geliştirebilirler.
+
+GitHub İle Neler Yapabiliriz ? 
+1. GitHub, projelerimizdeki kodları kolaylıkla paylaşmamıza olanak sağlar. Böylece diğer geliştiriciler projenizi görüntüleyebilir, üzerinde çalışabilir ve katkıda bulunabilir.
+2. GitHub, takım halinde çalışırken işbirliği yapmamızı kolaylaştırır. Projelerimizi paylaşabilir, ekip üyelerimizle birlikte çalışabilir ve değişiklikleri izleyebiliriz. Ayrıca projede yapılan her değişikliği görebilir ve geri alabilirsiniz.
+3. GitHub, projelerimizi yönetmemizi sağlayan kullanışlı bir arayüze sahiptir. Proje tahtaları, görevler ve sorunları takip edebilir, projemizin ilerlemesini izleyebilir ve projede yapılacaklar listesi oluşturabiliriz.
+
+GitHub avantajları =
+1.İşbirliği için mükemmel bir platformdur
+2.Sürüm kontrol sistemi sayesinde hataları düzeltme kolaylığı vardır
+3.Kolay entegrasyon ve otomatikleştirme
+
+GitHub Dezavantajları =
+1.Özel projeler için ücretli planlar gerekebilir
+2.Gizlilik sorunu olabilir
+3.Yeni başlayanlar için öğrenme eğrisi
